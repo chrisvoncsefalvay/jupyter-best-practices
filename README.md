@@ -6,31 +6,31 @@ This set of notebooks (the '**Guidelines**') document some best practices and st
 
 ### 1. General part
 
-1.1. General considerations (doc|nb|issues)
-1.2. Markdown and document structure (doc|nb|issues)
-1.3. Embedding (doc|nb|issues)
-1.4. Data sources and database access (doc|nb|issues)
-1.5. Using multiple languages in the same document (doc|nb|issues)
+1.1. General considerations (doc|nb|issues)  
+1.2. Markdown and document structure (doc|nb|issues)  
+1.3. Embedding (doc|nb|issues)  
+1.4. Data sources and database access (doc|nb|issues)  
+1.5. Using multiple languages in the same document (doc|nb|issues)  
 
 ### 2. Python
 
-2.1. General considerations (doc|nb|issues)
-2.2. Functions, classes and type annotation (doc|nb|issues)
-2.3. Plotting (doc|nb|issues)
+2.1. General considerations (doc|nb|issues)  
+2.2. Functions, classes and type annotation (doc|nb|issues)  
+2.3. Plotting (doc|nb|issues)  
 
 ### 3. R
 
-3.1. General considerations (doc|nb|issues)
-3.2. Functions and classes (doc|nb|issues)
-3.3. Plotting (`ggplot2` and built-in plotting types) (doc|nb|issues)
+3.1. General considerations (doc|nb|issues)  
+3.2. Functions and classes (doc|nb|issues)  
+3.3. Plotting (`ggplot2` and built-in plotting types) (doc|nb|issues)  
 
 ## Contributing
 
 There are multiple ways to contribute. 
 
-* One is by raising an issue to comment on a particular provision, share your experiences and discuss. Such discussions must follow a particular format (see template).
-* Another is by correcting errors and updating the Guidelines as packages are updated, APIs change, etc.
-* Finally, there will be 'flashpoint' questions. These will be open for 30 days, and involve two or more proposals for a particular issue being discussed, at the end of which one of the proposals will be accepted and implemented. These issues are tagged 'flashpoint<year>'.
+* One is by raising an issue to comment on a particular provision, share your experiences and discuss. Such discussions must follow a particular format (see template).  
+* Another is by correcting errors and updating the Guidelines as packages are updated, APIs change, etc.  
+* Finally, there will be 'flashpoint' questions. These will be open for 30 days, and involve two or more proposals for a particular issue being discussed, at the end of which one of the proposals will be accepted and implemented. These issues are tagged 'flashpoint<year>'.  
 
 ## Adopting the Guidelines
 
